@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**AshUK/AshUK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a deep stack developer building new products that are focused on user-centricity and simplicity. I am usually found with at least twenty chrome tabs and vscode open where I'm building, learning or hacking on top of the following tech.
 
-Here are some ideas to get you started:
+#### IoT
+Embedded C, Clang, CMake, BLE, Cellular, Device onboarding, Device OTA, Device security, mbedos, esp-idf
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Encoding and protocols
+CBOR, Protobuf, JSON, COAP, Lwm2m, MQTT, UDP, TCP/IP
+
+### 🕸 Web
+Node, React, Redux, Redux Sagas, Jest, cypress, Webpack, OpenID Connect
+
+### ☁️ Backend
+AWS, EC2, Lambda, API Gateway, S3, Cloudfront, MongoDB, DynamoDB, Docker, Serverless Framework, Cloudformation
+
+### 📱 Mobile
+React Native, Swift, BLE Comms, QR Code Scanning
+
+### 💻 Driver
+Visual Studio Code on MacOS
