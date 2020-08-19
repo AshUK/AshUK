@@ -9,7 +9,7 @@ Embedded C, Clang, CMake, BLE, Cellular, Device onboarding, Device OTA, Device s
 CBOR, Protobuf, JSON, COAP, Lwm2m, MQTT, UDP, TCP/IP
 
 ### 🕸 Web
-Node, React, Redux, Redux Sagas, Jest, cypress, Webpack, OpenID Connect
+Node, React, Redux, Redux Sagas, Jest, Playwright, Webpack, OpenID Connect
 
 ### ☁️ Backend
 AWS, EC2, Lambda, API Gateway, S3, Cloudfront, MongoDB, DynamoDB, Docker, Serverless Framework, Cloudformation
