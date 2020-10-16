@@ -2,6 +2,9 @@
 
 I am a deep stack developer building new products that are focused on user-centricity and simplicity. I am usually found with at least twenty chrome tabs and vscode open where I'm building, learning or hacking on top of the following tech.
 
+![Profile views](https://gpvc.arturio.dev/AshUK)
+
+
 #### IoT
 Embedded C, Clang, CMake, BLE, Cellular, Device onboarding, Device OTA, Device security, mbedos, esp-idf
 
